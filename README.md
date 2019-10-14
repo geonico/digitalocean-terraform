@@ -12,7 +12,7 @@ Have fun!
 
 1. Clone this repo:
 
-`git clone https://github.com/groovemonkey/digitalocean-terraform.git`
+`git clone https://github.com/geonick/digitalocean-terraform.git`
 
 1. Set up DigitalOcean credentials:
 
